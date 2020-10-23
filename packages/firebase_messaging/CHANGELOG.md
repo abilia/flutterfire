@@ -1,3 +1,7 @@
+## 7.0.4
+
+* Added iOS support for background message handling.
+
 ## 7.0.3
 
  - Update a dependency to the latest release.
